@@ -1,0 +1,20 @@
+body
+{
+    background-size: cover;
+}
+.header
+{
+    font-size: 20px;
+    margin-top: 0%;
+    width: 100%;
+}
+
+.object_name_label
+{
+    color: white;
+}
+
+#input
+{
+    border-radius: 5px;
+}
